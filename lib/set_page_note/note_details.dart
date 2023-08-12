@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'file:///D:/flutter/schedule/lib/set_page_note/note.dart';
-import 'file:///D:/flutter/schedule/lib/set_page_note/database_helper.dart';
+import 'note.dart';
+import 'database_helper.dart';
 import 'package:intl/intl.dart';
 
 class NoteDetails extends StatefulWidget {
